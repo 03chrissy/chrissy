@@ -1,10 +1,11 @@
 baseURL = 'https://03chrissy.github.io/chrissy/'
 languageCode = 'en-us'
-title = '巴以冲突系列报道'
+title = '兰州刻葫芦'
 theme = 'ananke'
+publishDir =  "docs"
 [markup]
 defaultMarkdownHandler = "goldmark"
 [markup.goldmark]
 [markup.goldmark.renderer]
 unsafe = true
-publishDir =  "docs"
+canonifyurls = true
