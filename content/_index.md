@@ -2,6 +2,6 @@
 title: '兰州刻葫芦'
 date: '2023-12-12'
 draft: false
-featured_image: '/images/封面.jpg'
+featured_image: '/images/3.jpg'
 ---
 兰州刻葫芦是中国乃至世界上独一无二的民间技艺，主要用刀或者针在葫芦表面进行阴刻，来体现中国传统绘画山水、花鸟、人物和书法，然后涂上松墨，令其线条明晰。
